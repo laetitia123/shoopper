@@ -1,0 +1,19 @@
+
+.header_text{
+    /* border: 1px dotted green; */
+    padding: 10px;
+    display: flex;
+    flex-flow: row;
+    /* align-items: center; */
+    justify-content: flex-start;
+}
+.c-badge {
+        text-align: left;
+ 
+  background-color: honeydew;
+  padding: 50px;
+  width: 500px;
+}
+.about{
+    font-size: 2223px;
+}
